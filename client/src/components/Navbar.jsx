@@ -13,7 +13,7 @@ const Navbar = () => {
         <img src={assets.logo} alt="logo" className='w-32 sm:w-44 'onClick={()=>navigate('/')}/>
 
         {
-          user ? UserButton : 
+          user ? <UserButton afterSignOutUrl='/'/> : 
           (<button className='flex items-center gap-2 rounded-full text-sm cursor-pointer bg-primary text-white px-10 py-2.5' onClick={openSignIn}>Get Started<ArrowRight className='w-4 h-4'/></button>)
         }
 
