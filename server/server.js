@@ -18,7 +18,7 @@ app.get('/',(req,res)=>res.send('Server is Live!'))
 app.use(requireAuth())
 
 app.use('/api/ai',aiRouter)
-
+app.unsubscribe('/api/user',aiRouter)
 const PORT = process.env.PORT || 3000;
 
 app.listen(PORT,()=>{
