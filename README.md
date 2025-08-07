@@ -220,9 +220,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/mewillsh)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/harsh-singh-3505961b2/)
+**Harsh Singh**
+- GitHub: [@mewillsh](https://github.com/mewillsh)
+- LinkedIn: [@harsh-singh](https://www.linkedin.com/in/harsh-singh-3505961b2/)
 
 ## 🙏 Acknowledgments
 
